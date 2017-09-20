@@ -1,0 +1,5 @@
+base:
+  '*':
+    - aur
+    - root
+    - gms
