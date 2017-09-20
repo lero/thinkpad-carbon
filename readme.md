@@ -6,8 +6,8 @@ The idea is to run one script from Arch Linux installation and get a working box
 
 Steps:
 
-1. Fork this repo and adjust `install.sh` and Salt configuration to your needs
-2. Boot Arch Linux USB installer
+1. Fork this repo, adjust `install.sh` and salt configuration to your needs
+2. Boot Arch Linux installer
 3. Connect to your wifi using `wifi-menu` and run `install.sh`:
     - wget https://raw.githubusercontent.com/xxxxx/thinkpad-carbon/master/install.sh
     - bash install.sh
