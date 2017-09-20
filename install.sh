@@ -12,7 +12,7 @@ sgdisk -Z $disk
 
 # create /boot/efi and / but leave some space for OpenBSD
 echo -e "n\n\n\n+200M\nef00\nw\ny" | gdisk $disk
-echo -e "n\n\n\n+208G\nw\ny" | gdisk $disk
+echo -e "n\n\n\n+208G\n\nw\ny" | gdisk $disk
 
 # encrypt entire partition
 cryptsetup -y luksFormat ${disk}p2
