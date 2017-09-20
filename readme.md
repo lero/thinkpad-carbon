@@ -1,5 +1,5 @@
-salt-arch-mac
--------------
+thinkpad-carbon
+---------------
 
 Salt configuration to get Arch Linux running on a Thinkpad X1 Carbon 5th generation.
 The idea is to run one script from Arch Linux installation and get a working box.
