@@ -2,7 +2,6 @@ aur:
   - dropbox-cli
   - i3blocks
   - jre-devel
-  - kbdlight
   - neofetch
   - playerctl
   - polysh
