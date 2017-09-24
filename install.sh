@@ -38,8 +38,7 @@ cat << EOF | arch-chroot /mnt
 # enable yaourt and install salt
 echo -e '[archlinuxfr]\nSigLevel = Never\nServer = http://repo.archlinux.fr/\$arch' >> /etc/pacman.conf
 pacman -Sy
-pacman -S yaourt --noconfirm
-yaourt -S salt git --noconfirm
+pacman -S git salt --noconfirm
 
 # clone needed repos and create some dirs/links
 git clone https://github.com/lero/thinkpad-carbon.git /srv/salt

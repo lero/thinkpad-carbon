@@ -10,3 +10,4 @@ aur:
   - tcptraceroute
   - terminus-font-ttf
   - ttf-font-awesome
+  - ttf-share-gf
