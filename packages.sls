@@ -13,6 +13,7 @@ packages:
       - bitlbee
       - bridge-utils
       - chromium
+      - compton
       - cups
       - cups-pdf
       - curl
@@ -36,6 +37,7 @@ packages:
       - flex
       - gc
       - gcc
+      - gdisk
       - ghostscript
       - gimp
       - git
@@ -57,11 +59,13 @@ packages:
       - jq
       - libmpc
       - libva-intel-driver
+      - libva-utils
       - libvirt
       - lm_sensors
       - lsscsi
       - make
       - mercurial
+      - mesa-demos
       - mplayer
       - mpv
       - mtr
@@ -108,7 +112,6 @@ packages:
       - x11-ssh-askpass 
       - xautolock
       - xf86-input-libinput
-      - xf86-video-intel
       - xorg-bdftopcf
       - xorg-iceauth
       - xorg-luit
