@@ -18,6 +18,7 @@ gms_files:
   - .bash_profile
   - .bashrc
   - .config/mpv/mpv.conf
+  - .config/redshift.conf
   - .gitconfig
   - .i3blocks.conf
   - .mplayer/config
