@@ -1,4 +1,5 @@
 aur:
+  - brightnessctl
   - dropbox-cli
   - i3blocks
   - jre-devel

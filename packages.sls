@@ -123,7 +123,6 @@ packages:
       - xorg-smproxy
       - xorg-x11perf
       - xorg-xauth
-      - xorg-xbacklight
       - xorg-xcmsdb
       - xorg-xcursorgen
       - xorg-xdpyinfo
