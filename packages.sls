@@ -37,11 +37,11 @@ packages:
       - flex
       - gc
       - gcc
-      - gdisk
       - ghostscript
       - gimp
       - git
       - go
+      - gptfdisk
       - gsfonts
       - gtk-xfce-engine
       - guile

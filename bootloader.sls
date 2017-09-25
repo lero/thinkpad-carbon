@@ -5,7 +5,7 @@
     - owner: root
 
 # get uuids
-{% set root_uuid = salt['disk.blkid']('/dev/nvme0n1p2')['/dev/nvme0n1p2']['UUID'] %}
+{% set root_uuid = salt['disk.blkid']('/dev/nvme0n1p5')['/dev/nvme0n1p5']['UUID'] %}
 {% set crypt_uuid = salt['disk.blkid']('/dev/mapper/cryptroot')['/dev/mapper/cryptroot']['UUID'] %}
 
 /boot/loader/entries/arch.conf:
