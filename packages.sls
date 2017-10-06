@@ -72,6 +72,7 @@ packages:
       - neovim
       - networkmanager
       - networkmanager-openvpn
+      - network-manager-applet
       - nftables
       - nload
       - nmap
@@ -92,6 +93,7 @@ packages:
       - redshift
       - rsync
       - rxvt-unicode
+      - shellcheck
       - scrot
       - strace
       - sudo
