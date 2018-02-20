@@ -47,6 +47,7 @@ packages:
       - guile
       - htop
       - i3-wm
+      - i3blocks
       - i3lock
       - i3status
       - imagemagick
@@ -81,12 +82,14 @@ packages:
       - openbsd-netcat
       - openssh
       - openvpn
+      - otf-font-awesome
       - p7zip
       - parted
       - patch
       - pavucontrol
       - pkg-config
       - pkgfile
+      - playerctl
       - powertop
       - pulseaudio
       - qemu
@@ -100,6 +103,8 @@ packages:
       - sysstat
       - system-config-printer
       - tcpdump
+      - telegram-desktop
+      - terminus-font
       - tlp
       - tmux
       - transmission-gtk
