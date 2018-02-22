@@ -6,4 +6,5 @@ aur:
   - polysh
   - spotify
   - tcptraceroute
+  - terminus-font-ttf
   - ttf-share-gf

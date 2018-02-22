@@ -104,7 +104,6 @@ packages:
       - system-config-printer
       - tcpdump
       - telegram-desktop
-      - terminus-font
       - tlp
       - tmux
       - transmission-gtk
